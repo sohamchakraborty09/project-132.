@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+
+}
+#Bed{
+    width: 100px;
+    box-shadow: 10px 10px 10px grey;
+    
+}
+#T_and_A{
+    width: 200px;
+    box-shadow: 10px 10px 10px grey;
+}
+#Desc{
+    width: 300px;
+    box-shadow: 10px 10px 10px grey;
+}
+#Bottles {
+    width: 400px;
+    box-shadow: 10px 10px 10px grey;
+}
+#Fruit_Basket{
+    width: 500px;
+    box-shadow: 10px 10px 10px grey;
+}
